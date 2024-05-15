@@ -1,3 +1,8 @@
+This repo is deprecated. The project is continued [here, under thalextech](https://github.com/thalextech/thalex_py).
+
+---
+***
+
 This is a free to use python exchange connector library for [thalex](https://www.thalex.com).
 
 See also the [api documentation](https://www.thalex.com/docs/).
